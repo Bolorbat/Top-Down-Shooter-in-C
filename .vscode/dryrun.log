@@ -1,0 +1,6 @@
+make.exe --dry-run --keep-going --print-directory
+make.exe: Entering directory 'c:/Users/User/Top-Down-Shooter-in-C'
+make.exe: Leaving directory 'c:/Users/User/Top-Down-Shooter-in-C'
+ 
+make.exe: *** No targets specified and no makefile found.  Stop.
+
